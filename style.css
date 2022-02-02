@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,500&display=swap');
+
+body{
+    background: #EDE574;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #E1F5C4, #EDE574);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #E1F5C4, #EDE574); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+
+h2{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+
+}
+
+.line{
+    background: #ec008c;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #fc6767, #ec008c);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #fc6767, #ec008c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    
+}
+input{
+    border: 2px solid mediumblue;
+    box-shadow: 0px 0px 8px darkturquoise;
+
+}
+
+button{
+    box-shadow: 0px 0px 8px red;
+}
+
+.para{
+    font-size: 2rem;
+    font-family: 'Cormorant Garamond', serif;
+}
